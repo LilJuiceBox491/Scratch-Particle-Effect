@@ -1,2 +1,5 @@
 # Scratch-Particle-Effect
-Use the README.md file to see the Scratchblocks link, and particle-effect-liljuicebox491.sb3 is a direct Scratch file to it
+So here's the link to the Scratchblocks:
+https://scratchblocks.github.io/#?style=scratch3&script=when%20gf%20clicked%0Ago%20to%20%5Bfront%20v%5D%20layer%0Aset%20%5Bsize%20v%5D%20to%20%5B30%5D%0Aset%20%5Baway%20v%5D%20to%20%5B2%5D%0Aset%20%5Bvelo%20v%5D%20to%20%5B2%5D%0A%0Adefine%20Create%20%5B%23ofparticles%5D%20partices%2F%2Fin%20the%20%22%23ofparticles%22%20slot%20put%20how%20many%20particles%20you%20want%0Aswitch%20costume%20to%20(circle%20v)%0Ahide%0Apoint%20in%20direction%20(pick%20random%20%5B-40%5D%20to%20%5B50%5D)%0Arepeat%20(%23ofparticles)%0Aturn%20ccw%20(pick%20random%20%5B-15%5D%20to%20%5B15%5D)%20degrees%0Ago%20to%20%5Bfront%20v%5D%20layer%0Acreate%20clone%20of%20(myself%20v)%0Apoint%20in%20direction%20(pick%20random%20%5B-40%5D%20to%20%5B50%5D)%0Aend%0A%0AWhen%20I%20start%20as%20a%20clone%0Ago%20to%20x%3A%20%5B0%5D%20y%3A%20%5B0%5D%0Ashow%0Aset%20size%20to%20(pick%20random%20%5B25%5D%20to%20%5B115%5D)%25%0A%0A
+
+And particle-effect-liljuicebox491.sb3 is a direct Scratch plugin file
